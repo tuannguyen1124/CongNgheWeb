@@ -9,9 +9,6 @@
 <form action="../Controller/C_Admin_Login.php" method="get">
 			<table border = 0 >
 				<caption> LOGIN </caption>
-				<tr> 
-					Xin chao Tun
-				</tr>
 				<tr>
 					<th>
 						Username:
